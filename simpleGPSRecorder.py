@@ -1,7 +1,6 @@
 from dronekit import connect
 import time
 
-# UDP settings (must match a udpout port running on mavproxy)
 address = 'localhost'
 port = 9000
 
